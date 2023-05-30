@@ -1,1 +1,1 @@
-# Calculator-using-HTML-CSS-and-Javascript--Responsive-Design-
+# Calculator-using-HTML-CSS-and-Javascript-Responsive-Design
